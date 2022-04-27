@@ -1,5 +1,5 @@
 {
-  "name": "ngform-validator",
+  "name": "ng-form-validations",
   "version": "1.0.0",
   "description": "Angular reactive form validations made easy!",
   "main": "index.js",
