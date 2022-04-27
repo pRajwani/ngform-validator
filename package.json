@@ -1,0 +1,22 @@
+{
+  "name": "ngform-validator",
+  "version": "1.0.0",
+  "description": "Angular reactive form validations made easy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "files": ["lib/**/*"],
+  "keywords": [
+    "angular", "form validation", "angular forms", "ng forms", "ng validators", "validations"
+  ],
+  "author": "Puneet Rajwani | Pradyumna Garg",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@angular/forms": "~13.1.0"
+  }
+}
